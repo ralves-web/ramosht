@@ -8,7 +8,7 @@
 
 ### Hey guys, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm Guilherme, a developer, photography and musician in my free time.
+I'm Guilherme, a developer, photographer and musician in my free time.
 - 🔭 I'm working as front-end React developer, web and mobile, in a health tech startup ([starbem](https://starbem.app/));
 - 🌱 Getting deep in mobile app development (with React Native), and also studying clean code, design patterns, tests (TDD) and ways to improve my code;
 - ✍️ I have a blog where I write about code, career and lifestyle;
