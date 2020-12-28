@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-ramosht_-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ramosht_/)](https://www.instagram.com/ramosht_/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeht.ramos@gmail.com-BB001B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeht.ramos@gmail.com)](mailto:guilhermeht.ramos@gmail.com)  
 
-### Hey guys, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hey guys,
 
 I'm Guilherme, a developer, photographer and musician in my free time.
 - 🔭 I'm working as front-end React developer, web and mobile, in a health tech startup ([starbem](https://starbem.app/));
